@@ -1,0 +1,39 @@
+body {
+  background: #3c3c3b !important;
+  font: Roboto !important;
+  color: #ffffff !important;
+}
+
+slides {
+background: none !important;
+/*! background-color: white; */
+}
+
+slide {
+background: none !important;
+/*! background-color: white; */
+}
+
+slides > slide.dark {
+  background: none !important;
+}
+
+slides > slide {
+  background: none !important;
+}
+
+.koeln {
+  font: Roboto !important;
+  font-size: x-large;
+  color: #ffffff;
+  text-transform: uppercase;
+  display: inline;
+  padding: 3px 5px;
+  background-color: #f04451;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  font-weight: 500;
+}
+
+
